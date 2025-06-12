@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './Header';
 import BannerDetails from './BannerDetails';
 import CourseTabBar from './CourseTabBar';
-import CourseOutline from './CourseOutLine';
+import CourseOutline from './CourseOutline';
 import  WhatYoullLearn from './WhatYoullLearn';
 import AboutCourse from './AboutCourse';
 import WhoShouldJoin from './WhoShouldJoin';
